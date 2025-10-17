@@ -1,0 +1,12 @@
+{
+  "env": {
+    "DOJAH_APP_ID": "68b8ceb99ec10e36b0ac38e8",
+    "DOJAH_PUBLIC_KEY": "test_pk_9sQ5xYlcZQK9OS1lnIH3QwckS",
+    "DOJAH_PRIVATE_KEY": "test_sk_EBw29ofBaCgeha4OZVvGbxL3z",
+    "DOJAH_BASE_URL": "https://api.dojah.io",
+    "PORT": 5200,
+    "NODE_ENV": "development",
+    "DOJAH_WIDGET_ID": "68b8d19f2658df85bcdd72c4",
+    "VERIFY_API_KEY":"test_pk_9sQ5xYlcZQK9OS1lnIH3QwckS"
+  }
+}
